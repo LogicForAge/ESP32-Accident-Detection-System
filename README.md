@@ -48,3 +48,11 @@ When an accident is detected, the ESP32 retrieves real-time GPS coordinates (lat
 - TinyGPS++
 - WiFi.h (optional)
 
+
+---
+
+
+
+float accidentThreshold = 2.5;  // g-force threshold
+
+
