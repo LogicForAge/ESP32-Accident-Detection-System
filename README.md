@@ -38,3 +38,13 @@ When an accident is detected, the ESP32 retrieves real-time GPS coordinates (lat
 - Add GSM for SMS alerts
 - Cloud integration
 - Mobile application support
+
+---
+
+
+## 📚 Required Libraries
+- Wire.h
+- MPU6050
+- TinyGPS++
+- WiFi.h (optional)
+
